@@ -42,6 +42,9 @@ The main goal of this lab is to get familiar with the **PyTorch** library by bui
 
 ## 📊 Comparative Results
 
+![image](https://github.com/user-attachments/assets/630dd571-90f5-4d2a-b681-0899b36e9597)
+
+
 | Model               | Accuracy (%) | F1-Score (%) | Training Time |
 |---------------------|--------------|--------------|----------------|
 | CNN                 | 98.00        | 97.90        | ~1 min         |
