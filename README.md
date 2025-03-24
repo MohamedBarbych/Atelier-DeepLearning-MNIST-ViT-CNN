@@ -1,4 +1,4 @@
-# Atelier-DeepLearning-MNIST-ViT-CNN
+# Lab-DeepLearning-MNIST-ViT-CNN
 
 > Université Abdelmalek Essaâdi – FST Tanger  
 > Master MBD – Deep Learning | Encadré par Pr. ELAACHAK LOTFI  
