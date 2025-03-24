@@ -42,7 +42,7 @@ The main goal of this lab is to get familiar with the **PyTorch** library by bui
 
 ## 📊 Comparative Results
 
-![image](https://github.com/user-attachments/assets/630dd571-90f5-4d2a-b681-0899b36e9597)
+![image](https://github.com/user-attachments/assets/3664d023-586a-48c4-b431-d081ed2d3421)
 
 
 | Model               | Accuracy (%) | F1-Score (%) | Training Time |
